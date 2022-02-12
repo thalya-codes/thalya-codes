@@ -6,7 +6,7 @@
 Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end | Criadora de conteúdo no IG <a href="https://www.instagram.com/thalya.codes/" target="_blank">thalya.codes</a> | Apaixonada por tecnologia e educação.
 <hr style="height:  1px;"> 
 
-
+<br/><br/><br />
 
 ### Tecnologias e ferramentas
 
