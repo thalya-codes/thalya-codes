@@ -4,7 +4,6 @@
 ### About me
 
 Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end | Criadora de conteúdo no IG <a href="https://www.instagram.com/thalya.codes/" target="_blank">thalya.codes</a> | Apaixonada por tecnologia e educação.
-<!--
 
 ### Tecnologias e ferramentas
 
@@ -16,6 +15,10 @@ Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end |
   <img align="center" alt="Thalya-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="center" alt="Thalya-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
+
+<!--
+
+
 
 
 
