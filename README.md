@@ -1,4 +1,5 @@
 ## Hi there, I'm Thalya... 👋
+<br/>
 
 
 
@@ -9,7 +10,6 @@ Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end |
 <br/>
 
 ### Tecnologias e ferramentas
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalya-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Thalya-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
