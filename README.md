@@ -18,26 +18,10 @@ Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end |
   <img align="center" alt="Thalya-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 <br/>
-<hr style="height:  11px;"> 
+<hr> 
+
 ### Estudando
   <img align="center" alt="Thalya-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
 
 <!--
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
