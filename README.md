@@ -1,9 +1,10 @@
-### Hi there, I'm Thalya... 👋
-
+## Hi there, I'm Thalya... 👋
+<hr> 
+<br>
 ### About me
-
 Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end | Criadora de conteúdo no IG <a href="https://www.instagram.com/thalya.codes/" target="_blank">thalya.codes</a> | Apaixonada por tecnologia e educação.
-
+<hr> 
+<br>
 ### Tecnologias e ferramentas
 
 <div style="display: inline_block"><br>
