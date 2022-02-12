@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Thalya... 👋
 
 <!--
 **thalya-codes/thalya-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Atualmente estou graduando em Análise e Desenvolvimento de Sistemas e desenvolvedora Front-end. Sou apaixonada por tudo que envolve tecnologia e educação.. Compartilho um pouco do que sei no IG <a href="https://www.instagram.com/thalya.codes/" target="_blank">thalya.codes</a>. 
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
