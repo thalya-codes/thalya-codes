@@ -4,6 +4,7 @@
 ### About me
 
 Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end | Criadora de conteúdo no IG <a href="https://www.instagram.com/thalya.codes/" target="_blank">thalya.codes</a>. 
+Sou apaixonda por tecnologia e educação e uma nerd incurável kk. 
 <!--
 
 
