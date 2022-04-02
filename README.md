@@ -16,7 +16,7 @@ Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedora Front-end |
   <img align="center" alt="Thalya-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Thalya-BootStrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Thalya-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Thalya-Styled-Components" height="50" width="60" src="https://i.ibb.co/ydkG6cv/img.png">
+  <img align="center" alt="Thalya-Styled-Components" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
 </div>
 <br/>
 <hr> 
